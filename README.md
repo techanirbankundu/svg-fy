@@ -14,7 +14,7 @@ As a developer, I often needed clean and scalable SVG icons. So I built a tool t
 - 🧠 **Drizzle ORM** – database access made simple
 - 🗃️ **Neon** – serverless PostgreSQL DB
 - ☁️ **Vercel** – for seamless deployment
-- 🤖 **Google Gemini 1.5 Pro** – powers the AI SVG generation!
+- 🤖 **Google Gemini 2.5 Pro** – powers the AI SVG generation!
 
 ---
 
